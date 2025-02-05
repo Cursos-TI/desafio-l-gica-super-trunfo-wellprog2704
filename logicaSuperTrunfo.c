@@ -5,7 +5,7 @@
 // Este código inicial serve como base para o desenvolvimento do sistema de comparação de cartas de cidades. 
 // Siga os comentários para implementar cada parte do desafio.
 
-int main() {
+int main(){
     // Definição das variáveis para armazenar as propriedades das cidades
     // Você pode utilizar o código do primeiro desafio
 
@@ -16,8 +16,8 @@ int main() {
     // utilize o código do primeiro desafio
 
     // Exemplo:
-    // printf("Digite o código da cidade: ");
-    // scanf("%s", codigo);
+    // printf("a1: ");
+    // scanf("%s", a1);
     // 
     // (Repita para cada propriedade)
 
